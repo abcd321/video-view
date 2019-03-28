@@ -46,4 +46,8 @@
 	.video-window{
 		margin:2.5rem 0 1.875rem;
 	}
+	.mint-header{
+		background-color: #FFFFFF;
+		color: #333333;
+	}
 </style>

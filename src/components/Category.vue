@@ -94,9 +94,9 @@
 	}
 	#category-list-ul span{
 		position: absolute;
-		right: 1.25rem;
-		bottom: 0.625rem;
-		font-size: 0.75rem;
+		top: 0.625rem;
+		left: 0.625rem;
+		font-size:0.75rem;
 		color: #FFFFFF;
 		display: inline-block;
 		width: 3.125rem;
@@ -105,5 +105,10 @@
 		line-height: 1.625rem;
 		opacity:0.6;
 		border-radius:0.625rem;
+	}
+	.mint-header{
+		background-color: #FFFFFF;
+		color: #333333;
+		box-shadow: 2px 5px 5px rgba(136,136,136,0.1);
 	}
 </style>
