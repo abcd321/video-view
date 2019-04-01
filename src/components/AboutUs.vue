@@ -6,14 +6,12 @@
 		<div class="about-contact">
 			<div class="customer-service">
 				<p class="contast-category">客户服务</p>
-				<p class="contast-item">理财咨询：4000-671-571</p>
-				<p class="contast-item">贷款咨询：4008-819-810</p>
+				<p class="contast-item">咨询电话：63538483</p>
 				<span class="contast-btn">在线联系</span>
 			</div>
 			<div class="business-cooperation">
 				<p class="contast-category">商务合作</p>
-				<p class="contast-item">联系电话：0571-88028399</p>
-				<p class="contast-item">电子邮箱：kqaudi@sina.com</p>
+				<p class="contast-item">联系电话：63538483</p>
 				<span class="contast-btn">在线联系</span>
 			</div>
 		</div>
